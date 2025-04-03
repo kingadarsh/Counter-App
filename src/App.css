@@ -1,0 +1,35 @@
+body{
+  background-color: rgb(50, 63, 120);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+  font-size: x-large;
+}
+
+#Count{
+  display: flex;
+  justify-content: center;
+}
+
+.Btn button{
+  color: white;
+  margin-right: 20px;
+  width: 90px;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+}
+
+#IncBtn{
+background-color: rgb(80, 201, 80);
+}
+
+#DecBtn{
+  background-color: rgb(221, 57, 57);
+}
+
+#ReBtn{
+  background-color: rgb(57, 128, 221);
+}
